@@ -6,6 +6,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutscheraa&theme=dark&hide_border=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kutschera&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kutscheraa&theme=dark&layout=compact&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kutschera&theme=dark&layout=compact&hide_border=true" width="400">
 </p>
