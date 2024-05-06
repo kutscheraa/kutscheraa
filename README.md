@@ -1,5 +1,5 @@
-### Hello👋
-- 👨‍🎓 I’m **CS student** from **Czech Republic**
-- 👨‍💻 I’m currently learning **fullstack web development**
-- 👯 I’m looking to collaborate on any web app projects
-- 📫 You can contact me on kutschera.biz@gmail.com
+# Hi 👋 I am Martin!
+
+- 👨‍🎓 I’m CS student from Czech Republic, currently learning 🌱fullstack web development.
+- 🌐 Check out my [portfolio website](URL) for more information or reach out to me via 📫 kutschera.biz@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutscheraa205&layout=compact&theme=dark&hide_border=true)
